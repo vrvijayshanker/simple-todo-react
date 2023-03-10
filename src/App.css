@@ -1,0 +1,32 @@
+.App {
+  text-align: center;    
+}
+
+.header {
+  padding-bottom: 0.5rem;
+  font-size: larger;
+}
+
+.box {
+  display: flex;
+  margin: auto;
+  background-color: darkblue;
+  color: white;
+  font-size: large;
+  border-radius: 2rem;
+  width: 50%;
+  min-height: 500px;
+}
+
+table{
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+
+input {
+  font-size: large;
+}
+
+button {
+  font-size: large;
+}
